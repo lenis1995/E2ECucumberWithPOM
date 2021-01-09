@@ -1,0 +1,7 @@
+20:54:31.901 [TestNG-tests-2] INFO  FullProject.UserLogin - Login submit clicked
+20:54:33.803 [TestNG-tests-2] INFO  FullProject.UserLogin - driver closed
+20:55:15.487 [TestNG-tests-1] INFO  FullProject.RegisterAnUser - Driver Initialized
+20:55:25.279 [TestNG-tests-1] INFO  FullProject.RegisterAnUser - Home Page Opened
+20:55:25.318 [TestNG-tests-1] INFO  FullProject.RegisterAnUser - Title comparison done
+20:55:28.834 [TestNG-tests-1] INFO  FullProject.RegisterAnUser - Sign In Link Clicked
+20:56:00.831 [TestNG-tests-1] INFO  FullProject.RegisterAnUser - Driver closed

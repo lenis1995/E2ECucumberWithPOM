@@ -1,0 +1,7 @@
+23:47:58.904 [main] INFO  FullProject.RegisterAnUser - Required fields filled
+23:47:59.087 [main] INFO  FullProject.RegisterAnUser - Clicked on terms and conditions ckeckbox
+23:48:03.038 [main] INFO  FullProject.RegisterAnUser - Clicked on Sign in submit button
+23:49:43.738 [main] INFO  FullProject.RegisterAnUser - Driver Initialized
+23:49:49.005 [main] INFO  FullProject.RegisterAnUser - Landing Page Opened
+23:49:49.180 [main] INFO  FullProject.RegisterAnUser - Title comparison done
+23:50:05.456 [main] INFO  FullProject.RegisterAnUser - Sign In Link Clicked

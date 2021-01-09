@@ -1,0 +1,7 @@
+19:32:41.780 [main] INFO  FullProject.UserLogin - Login page title comparison done
+19:32:42.191 [main] INFO  FullProject.UserLogin - Email and password fields filled
+19:32:42.270 [main] INFO  FullProject.UserLogin - Login submit clicked
+19:32:52.754 [main] INFO  FullProject.UserLogin - driver closed
+19:33:03.293 [main] INFO  FullProject.UserLogin - Driver Initialized
+19:33:10.237 [main] INFO  FullProject.UserLogin - Home Page Opened
+19:33:10.277 [main] INFO  FullProject.UserLogin - Title comparison done

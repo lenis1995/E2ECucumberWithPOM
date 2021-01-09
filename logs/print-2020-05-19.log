@@ -1,0 +1,7 @@
+18:13:33.602 [main] INFO  FullProject.UserLogin - Login submit clicked
+18:13:34.733 [main] INFO  FullProject.UserLogin - driver closed
+18:13:37.379 [main] INFO  FullProject.UserLogin - Driver Initialized
+18:13:41.705 [main] INFO  FullProject.UserLogin - Home Page Opened
+18:13:41.721 [main] INFO  FullProject.UserLogin - Title comparison done
+18:13:55.121 [main] INFO  FullProject.UserLogin - Login Link Clicked
+18:13:55.137 [main] INFO  FullProject.UserLogin - Login page title comparison done

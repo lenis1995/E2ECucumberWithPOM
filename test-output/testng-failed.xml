@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="resources.Listeners"/>
+  </listeners>
+  <test thread-count="5" name="Login Users(failed)" parallel="tests">
+    <classes>
+      <class name="FullProject.UserLogin">
+        <methods>
+          <include name="tearDown"/>
+          <include name="forgotPassword"/>
+          <include name="loginUser"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- FullProject.UserLogin -->
+    </classes>
+  </test> <!-- Login Users(failed) -->
+  <test thread-count="5" name="Register Users(failed)" parallel="tests">
+    <classes>
+      <class name="FullProject.RegisterAnUser">
+        <methods>
+          <include name="setup"/>
+          <include name="tearDown"/>
+          <include name="registerUser"/>
+        </methods>
+      </class> <!-- FullProject.RegisterAnUser -->
+    </classes>
+  </test> <!-- Register Users(failed) -->
+</suite> <!-- Failed suite [Suite] -->
